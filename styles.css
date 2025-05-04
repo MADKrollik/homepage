@@ -4,6 +4,16 @@
     box-sizing: border-box;
   }
 
+  a {
+    color: var(--primary-text-color);
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: var(--text-decoration-color);
+    text-decoration: none;
+  }
+
   body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
@@ -38,13 +48,13 @@
     margin: 50px auto;
     border: 1px solid #f5f5f5;
     box-shadow: 1px 1px 7px 7px #f5f5f5;
-    padding: 30px 0;
+    padding: 30px 0px 0px 0px;
     max-width: 900px;
   }
 
   .resume__block {
     border-bottom: 3px solid var(--border-color);
-    padding-bottom: 30px;
+    padding: 0px 30px 30px 30px;
     margin-bottom: 15px;
   }
 
@@ -185,7 +195,6 @@
     margin-bottom: 10px;
     font-size: 15px;
   }
-
   .experiences__company-project-name {
     color: var(--primary-text-color);
     text-align: left;
@@ -241,6 +250,40 @@
   .additional-info__languages-item {
     color: var(--secondary-text-color);
   }
+
+  footer {
+    max-width: 900px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__github {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding-left: 140px;
+}
+
+.footer__img {
+    margin-right: 10px;
+    width: 25px;
+    height: 25px;
+}
+
+.footer__wrapper p {
+    color: #FFFFFF;
+    font-size: 2rem;
+}
+
+.footer__wrapper a:hover {
+    color: black;
+}
+
+
+.footer__bynary {
+    padding-right: 140px;
+}
 
   @media screen and (max-width: 576px) {
     .main-info,
