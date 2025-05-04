@@ -10,3 +10,11 @@
 - 🌐 Портфоліо: [https://madkrollik.github.io/rsschool-cv/](https://madkrollik.github.io/rsschool-cv/)  
 - 🔗 LinkedIn: [linkedin.com/in/igor](https://www.linkedin.com/in/igor-salfetnyk-2608a2332/)  
 - 💻 GitHub: [https://github.com/MADKrollik](https://github.com/MADKrollik)
+
+## 📅 Таймлайн
+| 🗓 Рік | Подія |
+|-------|------|
+| 🚀 2022 | Полюбив IT |
+| 📚 2023 | Закінчив курс [rsschool](https://app.rs.school/certificate/hje16w7o) |
+| 🏆 2024 | Продовжую вчитись |
+| 🔍 2025 | Починаю новий курс |
