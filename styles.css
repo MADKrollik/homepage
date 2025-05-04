@@ -195,11 +195,6 @@
     margin-bottom: 10px;
     font-size: 15px;
   }
-
-  .experiences__company-project-responsibilities li {
-    margin-bottom: 5px;
-  }
-
   .experiences__company-project-name {
     color: var(--primary-text-color);
     text-align: left;
@@ -289,7 +284,6 @@
 .footer__bynary {
     padding-right: 140px;
 }
-
 
   @media screen and (max-width: 576px) {
     .main-info,
